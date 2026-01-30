@@ -86,14 +86,14 @@
 <br>
 
 ## 🎒 Образование
-[<img src="/diplom.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/anna-aver/anna-aver/refs/heads/main/Certificate%20middle%20rus.png)
-[<img src="/diplom.png" width="280px" hspace="10px" alt="Диплом на английском»">](https://raw.githubusercontent.com/anna-aver/anna-aver/refs/heads/main/Certificate%20middle%20eng.png)
+[<img src="/Certificate middle rus.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/anna-aver/anna-aver/refs/heads/main/Certificate%20middle%20rus.png)
+[<img src="/Certificate middle eng.png" width="280px" hspace="10px" alt="Диплом на английском»">](https://raw.githubusercontent.com/anna-aver/anna-aver/refs/heads/main/Certificate%20middle%20eng.png)
 
 <br>
 <br>
 
 ## 🤝 Контакт
-[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:metrika8@testcloud.ru)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/evdokimovmax)
+[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:anna-aver@yandex.ru)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/@AnnaC)
 
 <!-- Документация по виджету контактов ↑↑ https://shields.io/badges --> 
