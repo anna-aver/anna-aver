@@ -80,8 +80,8 @@
 <br>
 
 ## 🪴 Практика и стажировка
-[<img src="/internship_auto.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки по тестироваию мобильного приложения">](https://raw.githubusercontent.com/anna-aver/anna-aver/refs/heads/main/Training%202025%20rus.png)
-[<img src="/internship_kvadra.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки по тестироваию мобильного приложения">](https://raw.githubusercontent.com/anna-aver/anna-aver/refs/heads/main/Training%202025%20eng.png)
+[<img src="/Training 2015 rus.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки по тестироваию мобильного приложения">](https://raw.githubusercontent.com/anna-aver/anna-aver/refs/heads/main/Training%202025%20rus.png)
+[<img src="/Training 2015 eng.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки по тестироваию мобильного приложения">](https://raw.githubusercontent.com/anna-aver/anna-aver/refs/heads/main/Training%202025%20eng.png)
 
 <br>
 
