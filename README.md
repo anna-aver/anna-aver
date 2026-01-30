@@ -80,15 +80,14 @@
 <br>
 
 ## 🪴 Практика и стажировка
-[<img src="/internship_auto.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/MaxEvdokimov1/MaxEvdokimov1/main/internship_auto.png)
-[<img src="/internship_kvadra.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/MaxEvdokimov1/MaxEvdokimov1/main/internship_kvadra.png)
-[<img src="/internship_auto.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/MaxEvdokimov1/MaxEvdokimov1/main/internship_4fresh.png)
+[<img src="/internship_auto.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки по тестироваию мобильного приложения">](https://raw.githubusercontent.com/anna-aver/anna-aver/refs/heads/main/Training%202025%20rus.png)
+[<img src="/internship_kvadra.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки по тестироваию мобильного приложения">](https://raw.githubusercontent.com/anna-aver/anna-aver/refs/heads/main/Training%202025%20eng.png)
 
 <br>
 
 ## 🎒 Образование
-[<img src="/diplom.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/MaxEvdokimov1/MaxEvdokimov1/main/diplom.png)
-[<img src="/recommendation.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/MaxEvdokimov1/MaxEvdokimov1/main/recommendation.png)
+[<img src="/diplom.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/anna-aver/anna-aver/refs/heads/main/Certificate%20middle%20rus.png)
+[<img src="/diplom.png" width="280px" hspace="10px" alt="Диплом на английском»">](https://raw.githubusercontent.com/anna-aver/anna-aver/refs/heads/main/Certificate%20middle%20eng.png)
 
 <br>
 <br>
