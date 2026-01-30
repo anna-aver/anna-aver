@@ -49,7 +49,7 @@
     <img src="https://docs.testit.software/images/testit_logo_icon_blue.png" title="Test It" alt="Test It" width="40" height="40"/>&nbsp
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Notion-Dark.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" title="Discord" alt="Discord" width="40" height="40"/>&nbsp
-    <img src="https://logosandtypes.com/wp-content/uploads/2022/04/miro.svg" title="Miro" alt="Miro" width="45" height="45"/>&nbsp
+    <img src="https://i.pinimg.com/474x/7f/cf/75/7fcf759c2cea7de5e524ecd44f2eb8c6.jpg" title="Miro" alt="Miro" width="40" height="40"/>&nbsp
   </div>
 
 ## Работа с базами данных
