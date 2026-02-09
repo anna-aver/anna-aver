@@ -86,8 +86,8 @@
 <br>
 
 ## 🎒 Образование
-[<img src="/Certificate middle rus.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/anna-aver/anna-aver/refs/heads/main/Certificate%20middle%20rus.png)
-[<img src="/Certificate middle eng.png" width="280px" hspace="10px" alt="Диплом на английском»">](https://raw.githubusercontent.com/anna-aver/anna-aver/refs/heads/main/Certificate%20middle%20eng.png)
+[<img src="/diplom_rus.png" width="280px" hspace="10px" alt="Диплом»">]([https://raw.githubusercontent.com/anna-aver/anna-aver/refs/heads/main/Certificate%20middle%20rus.png](https://raw.githubusercontent.com/anna-aver/anna-aver/refs/heads/main/diplom_rus.png)
+[<img src="/diplom_eng.png" width="280px" hspace="10px" alt="Диплом на английском»">]([https://raw.githubusercontent.com/anna-aver/anna-aver/refs/heads/main/Certificate%20middle%20eng.png](https://raw.githubusercontent.com/anna-aver/anna-aver/refs/heads/main/diplom_eng.png)
 
 <br>
 <br>
