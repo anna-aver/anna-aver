@@ -88,6 +88,7 @@
 ## 🎒 Образование
 [<img src="/diplom_rus.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/anna-aver/anna-aver/refs/heads/main/diplom_rus.png)
 [<img src="/diplom_eng.png" width="280px" hspace="10px" alt="Диплом на английском»">](https://raw.githubusercontent.com/anna-aver/anna-aver/refs/heads/main/diplom_eng.png)
+[<img src="/recommendation.jpg" width="280px" hspace="10px" alt="Рекомендация от ментора»">](https://raw.githubusercontent.com/anna-aver/anna-aver/refs/heads/main/recommendation.jpg)
 
 <br>
 <br>
